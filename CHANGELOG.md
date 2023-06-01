@@ -1,3 +1,7 @@
+## 1.0.0
+
+* Update flutter_introduction_interface
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release.
